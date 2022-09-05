@@ -1,0 +1,9 @@
+.objective {
+    background-color: yellowgreen;
+    margin: 5px;
+    width: fit-content;
+}
+
+.objective-body {
+    padding: 10px;
+}

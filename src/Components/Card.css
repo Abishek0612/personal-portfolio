@@ -1,0 +1,6 @@
+.contact{
+    display: flex;
+    justify-content: center;
+    font-family: bold;
+    margin: 20px;
+}
