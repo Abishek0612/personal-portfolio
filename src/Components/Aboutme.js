@@ -40,10 +40,6 @@ function Aboutme (props) {
          <Accordion.Body>
              <h3>UI React with Redux</h3>
              <h3>Amazon Web service</h3>
-             <h3></h3>
-             <h3></h3>
-             <h3></h3>
-             <h3></h3>
          </Accordion.Body>
        </Accordion.Item>
      </Accordion> 
