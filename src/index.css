@@ -21,17 +21,6 @@ code {
     monospace;
 }
 
-.main-page {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  height: 100vh;
-  justify-content: center;
-  font-family: 'bold';
-  font-size: 25px;
-}
-
-
 .login-btn {
   width: fit-content;
 }
@@ -47,9 +36,6 @@ code {
   width: fit-content;
 }
 
-.user-pass{
-  margin-bottom: 10px;
-}
 
 .home-page {
   display: flex;
@@ -58,6 +44,10 @@ code {
   justify-content: center;
 }
 
-#password {
-  margin: 5nppx;
+.home-page {
+  font-size: 900;
+  color: blue;
 }
+
+
+

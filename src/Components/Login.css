@@ -1,0 +1,74 @@
+
+.login {
+    width: 100%;
+    height: 100vh;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.main-page {
+    color: black;
+    text-transform: uppercase;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    top: 0;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.content {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+}
+
+.account-page {
+    padding-left: 80px;
+    padding-bottom: 10px;
+    font-size: 900;
+    color: white;
+}
+
+.username {
+    color: white;
+}
+
+.user-u {
+    padding-right: 10px;
+}
+.pass-p{
+    padding-right: 10px;
+}
+
+.login-btn {
+    padding-left:90px;
+    margin-top: 10px;
+}
+
+.password {
+    color: white;
+}
+
+
+
+#password {
+    margin: 5px;
+  }
+
+
+  .main-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    font-family: 'bold';
+    font-size: 25px;
+  }

@@ -3,7 +3,7 @@ function home (props){
     return(
         <div className="home">
             <Menu onLogout={props.onLogout} />
-            <h1 className="home-page">Welcome to my home page</h1>          
+            <h1 className="home-page">WELCOME TO MY TECH HUB</h1>          
         </div>
     )
 }

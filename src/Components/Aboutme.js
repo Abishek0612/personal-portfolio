@@ -38,7 +38,7 @@ function Aboutme (props) {
                 <h3>1)React Js with Redux</h3>
                 <h3>2)Web Design Using Dreamweaver in National Institute of Electronics and Information Technology </h3>
                 <h3>3)Amazon Web service</h3>
-                <h3>4)Microsoft Certified Sysytems Engineer</h3>
+                <h3>4)Microsoft Certified System Engineer</h3>
                 <h3>5)Networking With Cisco Router And Switch</h3>
                 <h3>6)Azure</h3>
                 <h3>7)Certificate Course in Office Automation  </h3>
