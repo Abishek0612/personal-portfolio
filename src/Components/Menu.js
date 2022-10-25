@@ -10,12 +10,13 @@ function Menu(props){
                 <Link to='/career'>Career</Link>
                 <Link to='/aboutme'>Aboutme</Link>
                 <div className="logout-btn">
+                    
                     <button className="btn btn-primary" onClick={props.onLogout}>Logout</button>
                 </div>
                 </div>
             </div>
         </div>
-    );
+    )
 }
 
 export default Menu;
